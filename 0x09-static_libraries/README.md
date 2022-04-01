@@ -1,1 +1,1 @@
-Static libraries in C
+# Make static libraries with functions
